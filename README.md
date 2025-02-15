@@ -101,7 +101,7 @@ gunicorn app:app -b 0.0.0.0:8000
 ## 📝 License
 This project is **open-source** and free to use. Feel free to contribute or improve! 💡
 
-🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/yourusername)  
+🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/rahulroy0499/) | [GitHub](https://github.com/rahul-roy56)  
 📩 **Contact:** your-email@example.com
 
 💖 _Stay heart-healthy and keep coding!_ 🚀
