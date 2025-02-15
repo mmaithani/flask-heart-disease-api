@@ -8,3 +8,4 @@ python-dotenv==1.0.1
 pip==23.2.1
 setuptools>=65.5.0
 wheel
+pickle-mixin
