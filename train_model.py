@@ -6,10 +6,10 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import StandardScaler
 
 # Load dataset
-df = pd.read_csv("/Users/rahulroy/Documents/heart.csv")
+df = pd.read_csv("heart.csv")
 
 # Drop 'sex' column
-df = df.drop(columns=['sex'])
+# df = df.drop(columns=['sex'])
 
 # Split data
 X = df.drop(columns=['target'])
